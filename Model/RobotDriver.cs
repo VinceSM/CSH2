@@ -9,9 +9,10 @@ namespace Transporte2.Model
 {
     public class RobotDriver : IDriver
     {
-        public string Navigate()
+        public string Navigate(string Conductor)
         {
-            throw new NotImplementedException();
+            Conductor = $"Conduccion Automatica (Robot)";
+            return Conductor;
         }
     }
 }

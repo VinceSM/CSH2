@@ -9,9 +9,11 @@ namespace Transporte2.Model
 {
     public class CombustionEngine : IEngine
     {
-        public string Move()
+        public string Move(string Motor)
         {
-            throw new NotImplementedException();
+            Motor = $"Motor a Combustible";
+            return Motor;
+           
         }
     }
 }

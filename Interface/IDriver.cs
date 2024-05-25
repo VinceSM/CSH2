@@ -8,6 +8,6 @@ namespace Transporte2.Interface
 {
     public interface IDriver
     {
-        string Navigate();
+        string Navigate(string Conductor);
     }
 }

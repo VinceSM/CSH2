@@ -8,6 +8,6 @@ namespace Transporte2.Interface
 {
     public interface IEngine
     {
-        string Move();
+        string Move(string Motor);
     }
 }

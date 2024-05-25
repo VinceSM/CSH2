@@ -9,9 +9,10 @@ namespace Transporte2.Model
 {
     public class ElectricEngine : IEngine
     {
-        public string Move()
+        public string Move(string Motor)
         {
-            throw new NotImplementedException();
+            Motor = $"Motor Electrico";
+            return Motor;
         }
     }
 }

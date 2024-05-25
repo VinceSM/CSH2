@@ -1,0 +1,10 @@
+C:\Users\vsmx4\source\repos\Transporte2\bin\Debug\Transporte2.exe.config
+C:\Users\vsmx4\source\repos\Transporte2\bin\Debug\Transporte2.exe
+C:\Users\vsmx4\source\repos\Transporte2\bin\Debug\Transporte2.pdb
+C:\Users\vsmx4\source\repos\Transporte2\obj\Debug\Transporte2.csproj.AssemblyReference.cache
+C:\Users\vsmx4\source\repos\Transporte2\obj\Debug\Transporte2.Properties.Resources.resources
+C:\Users\vsmx4\source\repos\Transporte2\obj\Debug\Transporte2.Form1.resources
+C:\Users\vsmx4\source\repos\Transporte2\obj\Debug\Transporte2.csproj.GenerateResource.cache
+C:\Users\vsmx4\source\repos\Transporte2\obj\Debug\Transporte2.csproj.CoreCompileInputs.cache
+C:\Users\vsmx4\source\repos\Transporte2\obj\Debug\Transporte2.exe
+C:\Users\vsmx4\source\repos\Transporte2\obj\Debug\Transporte2.pdb
